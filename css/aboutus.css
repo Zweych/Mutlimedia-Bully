@@ -207,6 +207,7 @@ header {
 .thumbnail .item .content {
     position: absolute;
     inset: auto 10px 10px 10px;
+    color: white;
 }
 
 @media screen and (max-width: 678px) {
